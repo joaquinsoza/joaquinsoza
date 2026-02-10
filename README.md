@@ -8,7 +8,7 @@
 
 ## 🧑 About me:
 
-Hello! I'm Joaquin, a passionate <b>Full Stack Engineer</b> with over 4 years of experience. I've honed my skills in a wide range of programming utilities and languages, and I'm particularly proficient in both backend and frontend development. Currently, I'm diving deep into the world of Blockchain Development at PaltaLabs, where I'm building Soroswap.
+Hello! I'm Joaquin, a passionate <b>Full Stack Engineer</b> with over 6 years of experience. I've honed my skills in a wide range of programming utilities and languages, and I'm particularly proficient in both backend and frontend development. Currently, I'm diving deep into the world of Blockchain Development at PaltaLabs, where I'm building Soroswap.
 
 When I'm not coding, you can find me navigating the rapids. Kayaking 🛶, especially on white water, is my way of finding balance and adventure outside the digital realm.
 
